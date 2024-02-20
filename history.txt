@@ -1,0 +1,140 @@
+    1  cd my-first-repo
+    2  mkdir projects
+    3  mkdir projects
+    4  mkdir projects1
+    5  chmod(Change Directory)
+    6  chmod(Change Directory) 
+    7  pwd
+    8  ../Documents
+    9  git --version
+   10  git config --global init.defaultBranch main
+   11  mkdir repos
+   12  cd repos/
+   13  git clone git@github.com:DiksonIvySon/git_test.git
+   14  cd git_test
+   15  git remote -v
+   16  touch hello_world.txt
+   17  git status
+   18  git add hello_world.txt
+   19  git status
+   20  git commit -m "Add hello_world.txt"
+   21  git status
+   22  git log
+   23  code .
+   24  git status
+   25  git add README.md
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m "Edit README.md and hello_world.txt"
+   30  git status
+   31  git log
+   32  git push
+   33  git status
+   34  git config --global core.editor "code --wait" 
+   35  git commit
+   36  cd repos
+   37  cd odin-recipes
+   38  git clone git@github.com:DiksonIvySon/odin-recipes.git
+   39  git clone git@github.com:DiksonIvySon/odin-recipes.git
+   40  clear
+   41  cd odin-recipes
+   42  clear
+   43  cd repos
+   44  cd home
+   45  clear
+   46  cd repos/
+   47  mkdir repos
+   48  cd myCodeSpace
+   49  cd desktop
+   50  cd Desktop
+   51  cd ~
+   52  cd Desktop
+   53  cd myCodeSpace
+   54  cd "Odin Project Challenges"
+   55  git branch -M main
+   56  git remote add origin git@github.com:DiksonIvySon/The-Odin-Project-Challenges.git
+   57  git push -u origin main
+   58  echo "# The-Odin-Project-Challenges" >> README.md
+   59  git init
+   60  git add README.md
+   61  git commit -m "first commit"
+   62  git branch -M main
+   63  git remote add origin git@github.com:DiksonIvySon/The-Odin-Project-Challenges.git
+   64  git push -u origin main
+   65  git add --all
+   66  git add --all
+   67  cd
+   68  cd Desktop
+   69  cs myCodeSpace
+   70  cd myCodeSpace
+   71  cd "Portfolio Projects"
+   72  cd Netflix-Clone
+   73  echo "# Netflix-Clone" >> README.md
+   74  git init
+   75  git add README.md
+   76  git commit -m "first commit"
+   77  git branch -M main
+   78  git remote add origin git@github.com:DiksonIvySon/Netflix-Clone.git
+   79  git push -u origin main
+   80  cd
+   81  cd /
+   82  cd Desktop
+   83  clear
+   84  cd
+   85  cd Desktop
+   86  cd Umuzi
+   87  mkdir git-basic-exercises
+   88  cd git-basic-exercises
+   89  ls -a
+   90  git init
+   91  ls -a
+   92  git status
+   93  touch README.md
+   94  ls -a
+   95  git status
+   96  git log
+   97  git add README.md
+   98  git status
+   99  git reset README.md
+  100  git status
+  101  git add README.md
+  102  git status
+  103  git commit -m "initial commit"
+  104  git log
+  105  q
+  106  nano README.md
+  107  git status
+  108  git add README.md
+  109  git commit -m "second commit"
+  110  nano README.md
+  111  git status
+  112  git add README.md
+  113  git commit -m "third commit"
+  114  git log
+  115  q
+  116  git checkout a48c005c761902395cf9a50f13ddbffeee4f5537
+  117  git checkout
+  118  git checkout a48c005c761902395cf9a50f13ddbffeee4f5537
+  119  cat README.md
+  120  git checkout main
+  121  cat README.md
+  122  git branch
+  123  git branch milkshake-flavours
+  124  git branch
+  125  git checkout milkshake-flavours
+  126  nano milkshakes.md
+  127  git status
+  128  git add milkshakes.md
+  129  git commit milkshake-flavours "added initial flavours"
+  130  git status
+  131  git commit -m "added initial flavours"
+  132  git staus
+  133  git status
+  134  git log
+  135  git checkout main
+  136  git branch history
+  137  git checkout history
+  138  git log
+  139  git branch
+  140  history > history.txt
